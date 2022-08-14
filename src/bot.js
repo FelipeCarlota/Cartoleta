@@ -1,5 +1,5 @@
 require("dotenv").config();
-const { token } = process.env;
+const { token } = require('./commands/tools/config.json');
 const { channel } = require("diagnostics_channel");
 const { Client, Collection, GatewayIntentBits,  } = require("discord.js");
 const fs = require("fs");
