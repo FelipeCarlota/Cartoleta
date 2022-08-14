@@ -5,7 +5,8 @@
   "main": "src/bot.js",
   "scripts": {
     "test": "node .",
-    "dev": "nodemon ."
+    "dev": "nodemon .",
+    "start": "nodemon ."
   },
   "author": "Carlota FC",
   "license": "ISC",
