@@ -19,6 +19,7 @@ function sayHelp() {
     { name: '$linda', value: 'Retorna o perfil da mais linda do discord.', inline: false },
     { name: '$bela', value: 'Retorna o perfil da mais bela do discord.', inline: false },
     { name: '$docinho', value: 'Retorna o perfil da mais doce do discord.', inline: false },
+    { name: '$florzinha', value: 'Retorna o perfil da mais florzinha do discord.', inline: false },
     { name: '$coach', value: 'Retorna frases desmotivacionais pra melhorar (ou não) seu dia.\nNão recomendado pelos psicólogos em dias de melancolia.', inline: false },
     )
     .setTimestamp()
